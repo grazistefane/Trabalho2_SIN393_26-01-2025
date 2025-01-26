@@ -58,6 +58,7 @@ Os dados são divididos em:
 - Treinamento (70%)
 - Validação (15%)
 - Teste (15%)
+  
 Os splits são feitos de forma aleatória com uma semente fixa para reprodutibilidade.
 
 ### 5. **Modelos Utilizados**
