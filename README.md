@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido com o objetivo de realizar a classificação de imagens utilizando redes neurais convolucionais pré-treinadas, como VGG16 e ResNet18. O dataset utilizado contém imagens de ressonâncias magnéticas cerebrais e foi adaptado para este trabalho.
 
+**Link para o vídeo da apresentação do trabalho**:https://youtu.be/Dlu-AI3io58?si=d3x6QTMRswn0Sdhg
+
 ## Implementação Inicial e Problemas Enfrentados
 
 Inicialmente, foi implementado um código mais completo com configurações de hiperparâmetros e estratégias avançadas, como grid search para otimização e validação cruzada. No entanto, esse código enfrentou dois problemas principais ao ser executado no Google Colab:
